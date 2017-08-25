@@ -14,7 +14,7 @@ Instructions:
 - Test your program locally;  revise and re-test as needed.  (How long
 can it take, really?)
 
-- Copy the skel_credentials.py file to credentials.py and fill in
+- Copy the credentials-skel.py file to credentials.py and fill in
 appropriately.
 
 - Commit your changes.  You will need to use "git add" on
