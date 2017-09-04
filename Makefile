@@ -7,9 +7,11 @@
 #
 
 install:
-	# Nothing to do
+	# There is no install step for project 0 (hello)
+	# but be sure to copy and edit the credentials file;
+	# see credentials-skel.ini for more information 
 
 run:
-	python3 hello.py
+	(cd hello; python3 hello.py)
 
 
