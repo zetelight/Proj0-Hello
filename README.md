@@ -7,7 +7,7 @@ mechanisms.
 - Start by forking this repository on github, then cloning onto your
   development machine. 
 
-- Copy the credentials-skel.py file to credentials.py and fill in
+- Copy the credentials-skel.ini file to credentials.ini and fill in
   appropriately. 
 
 - Modify the program "hello.py" so that it prints "Hello
